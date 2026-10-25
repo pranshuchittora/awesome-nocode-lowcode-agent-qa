@@ -44,6 +44,7 @@ Nocode enables programmers and non-programmers to create application software th
 
 ## Automation and Workflows
 
+- [agent-qa](https://github.com/vostride/agent-qa) - Natural-language test automation for web, Android, and iOS, with advanced memidex memory and self-improvement.
 - [Boltic](https://www.boltic.io/) - AI Workflow Automation, MCP Servers and AI Agents.
 - [Camunda](https://camunda.com/) - Workflow and decision automation.
 - [Decisions](https://decisions.com/) - Automate Everything.
